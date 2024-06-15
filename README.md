@@ -18,14 +18,14 @@ Always refer to the latest GCP documentation for the most up-to-date information
 ## Contents
 
 - [[Main Github] Understand the use case](https://docs.google.com/document/d/14WnH6ZwEj5h0X8g4NcVYdsRK0qAYQfe9cIBI_VzJhD0/edit?usp=sharing)
-- [Hands-on Lab - 1] Setup your environment_ Notebooks & IAM  
-- [Hands-on Lab - 2] Data Ingestion with Dataproc , BigLake & PubSub   
-- [Hands-on Lab - 3] ELT & Lakehouse _ BigQuery, Dataform, LLM for sentiment analysis  
-- [Hands-on Lab - 4] ML Operations with Vertex AI  
-- [Hands-on Lab - 5] Data Governance with Dataplex  
-- [Hands-on Lab - 6] Data Sharing with Analytics Hub  
-- [Hands-on Lab - 7] Data Canvas & Looker Studio  
-- Use Case Closure: Architecture challenge and retrospective 
+- [[Hands-on Lab - 1] Setup your environment_ Notebooks & IAM](https://docs.google.com/document/d/14lqj4-Vx6iyjibGqK-UFhk5-AL0rED2O_nNxTKx532A/edit?usp=sharing)  
+- [[Hands-on Lab - 2] Data Ingestion with Dataproc , BigLake & PubSub](https://docs.google.com/document/d/14puI1u9FWHdcZII-zZS-XzpHm2Wzk1fyoy9BqJkT7Pk/edit?usp=sharing)   
+- [[Hands-on Lab - 3] ELT & Lakehouse _ BigQuery, Dataform, LLM for sentiment analysis](https://docs.google.com/document/d/15GTiDgzS54X_hUtz8FZqmLP9eLSF60dea4yLwDaT8R0/edit?usp=sharing)  
+- [[Hands-on Lab - 4] ML Operations with Vertex AI](https://docs.google.com/document/d/15vV4iAypm2icoIHhy1Vzt-x4oiDJXQ4VPz2SSP5Vy0k/edit?usp=sharing)  
+- [[Hands-on Lab - 5] Data Governance with Dataplex](https://docs.google.com/document/d/16AEld1CC-6WndLw12H7wTmZ0EDDtZRWieHPR4z8GJp8/edit?usp=sharing)  
+- [[Hands-on Lab - 6] Data Sharing with Analytics Hub](https://docs.google.com/document/d/16aiNkDEt7VQl2o5ExTYOHgLF0Yc3yfWJVaxrxmuzz4E/edit?usp=sharing)  
+- [[Hands-on Lab - 7] Data Canvas & Looker Studio](https://docs.google.com/document/d/18GK-vimnrmvA3YZql-cReD0L6SMW02TYal85OPfd7F0/edit?usp=sharing)  
+- [Use Case Closure: Architecture challenge and retrospective](https://docs.google.com/document/d/193wGJaQZkvPu3IFt7Z8aoKZ7OlQMS99ciQXKanrFxvA/edit?usp=sharing) 
 
 ## Getting Started
 
