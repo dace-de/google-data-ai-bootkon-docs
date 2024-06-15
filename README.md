@@ -17,7 +17,7 @@ Always refer to the latest GCP documentation for the most up-to-date information
 
 ## Contents
 
-- [Understand the use case](https://github.com/dace-de/google-data-ai-bootkon-docs/blob/e91f40f81f9cad14c1c5e5cebb76e6906956c0bc/%5BMain%20Github%5D%20Understand%20the%20use%20case.pdf)](https://github.com/dace-de/google-data-ai-bootkon-docs/blob/aa722f7628a82ab378349b44422089f188f6d18c/%5BMain%20Github%5D%20Understand%20the%20use%20case.pdf)
+- [Understand the use case](https://github.com/dace-de/google-data-ai-bootkon-docs/blob/aa722f7628a82ab378349b44422089f188f6d18c/%5BMain%20Github%5D%20Understand%20the%20use%20case.pdf)
 - [([Hands-on Lab - 1] Setup your environment_ Notebooks & IAM (go_bootkon-dace-2024-setup).pdf)](https://github.com/dace-de/google-data-ai-bootkon-docs/blob/ba168ddb1c3e73c4266555849b9e3445f42860b3/%5BHands-on%20Lab%20-%201%5D%20Setup%20your%20environment_%20Notebooks%20%26%20IAM%20(go_bootkon-dace-2024-setup).pdf)
 - [[Hands-on Lab - 2] Data Ingestion with Dataproc , BigLake & PubSub  (go_bootkon-dace-2024-ingestion).pdf](https://github.com/dace-de/google-data-ai-bootkon-docs/blob/ba168ddb1c3e73c4266555849b9e3445f42860b3/%5BHands-on%20Lab%20-%202%5D%20Data%20Ingestion%20with%20Dataproc%20%2C%20BigLake%20%26%20PubSub%20%20(go_bootkon-dace-2024-ingestion).pdf)
 - [[Hands-on Lab - 3] ELT & Lakehouse _ BigQuery, Dataform, LLM for sentiment analysis (go_bootkon-dace-2024-dataform).pdf](https://github.com/dace-de/google-data-ai-bootkon-docs/blob/ba168ddb1c3e73c4266555849b9e3445f42860b3/%5BHands-on%20Lab%20-%203%5D%20ELT%20%26%20Lakehouse%20_%20BigQuery%2C%20Dataform%2C%20LLM%20for%20sentiment%20analysis%20(go_bootkon-dace-2024-dataform).pdf)
