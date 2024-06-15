@@ -25,7 +25,7 @@ Always refer to the latest GCP documentation for the most up-to-date information
 - [Hands-on Lab - 5] Data Governance with Dataplex  
 - [Hands-on Lab - 6] Data Sharing with Analytics Hub  
 - [Hands-on Lab - 7] Data Canvas & Looker Studio  
-- [Use Case Closure: Architecture challenge and retrospective ](https://github.com/dace-de/google-data-ai-bootkon-docs/blob/e91f40f81f9cad14c1c5e5cebb76e6906956c0bc/%5BUse%20Case%20Closure%5D%20Architecture%20Challenge%20%26%20Retrospective%20.pdf)
+- Use Case Closure: Architecture challenge and retrospective 
 
 ## Getting Started
 
