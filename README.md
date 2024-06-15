@@ -17,7 +17,7 @@ Always refer to the latest GCP documentation for the most up-to-date information
 
 ## Contents
 
-- [Main Github] Understand the use case(https://docs.google.com/document/d/14WnH6ZwEj5h0X8g4NcVYdsRK0qAYQfe9cIBI_VzJhD0/edit?usp=sharing)
+- [Main Github Understand the use case](https://docs.google.com/document/d/14WnH6ZwEj5h0X8g4NcVYdsRK0qAYQfe9cIBI_VzJhD0/edit?usp=sharing)
 - [Hands-on Lab - 1] Setup your environment_ Notebooks & IAM  
 - [Hands-on Lab - 2] Data Ingestion with Dataproc , BigLake & PubSub   
 - [Hands-on Lab - 3] ELT & Lakehouse _ BigQuery, Dataform, LLM for sentiment analysis  
