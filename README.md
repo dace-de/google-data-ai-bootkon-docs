@@ -1,10 +1,10 @@
 # Google Data & AI Boot-Kon - FraudFix Use Case
 
-Welcome to the Google Data & AI Boot-Kon repository. This repository contains user manuals in PDF format for the FraudFix use case.
+Welcome to the Google Data & AI Boot-Kon repository. This repository contains user manuals in DOC format for the FraudFix use case.
 
 ## How to Use
 
-In order to copy the command lines and instructions easily, please use the download option to download the PDF files locally. Once downloaded, you can open the PDFs on your computer and use the copy/paste options as needed.
+In order to copy the command lines and instructions easily, please use the download option to download the DOC files locally. Once downloaded, you can open the DOCs on your computer and use the copy/paste options as needed.
 
 ## Caution
 
@@ -29,10 +29,10 @@ Always refer to the latest GCP documentation for the most up-to-date information
 
 ## Getting Started
 
-1. Browse the PDF files listed in the [Contents](#contents) section.
-2. Click on the links to view each lab's PDF file.
-3. Use the download button to save the PDF files to your local machine.
-4. Open the downloaded PDF files using any PDF reader to copy the command lines and follow the instructions.
+1. Browse the DOC files listed in the [Contents](#contents) section.
+2. Click on the links to view each lab's DOC file.
+3. Use the download button to save the DOC files to your local machine.
+4. Open the downloaded DOC files using any PDF reader to copy the command lines and follow the instructions.
 
 ## Feedback
 
