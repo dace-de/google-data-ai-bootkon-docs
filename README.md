@@ -33,6 +33,21 @@ Always refer to the latest GCP documentation for the most up-to-date information
 2. Click on the links to view each lab's DOC file.
 3. Follow the instructions.
 
+## Recommended Code Editors
+
+To make the most out of the BootKon event, we suggest using one of these code editors for easy code editing and environment customization:
+
+### Mac & Windows:
+Visual Studio Code (VS Code)
+Sublime Text
+Atom
+Notepad++
+
+### Google Chromebooks:
+Visual Studio Code (VS Code)
+StackBlitz
+Gitpod
+
 ## Feedback
 
 If you have any feedback or issues, please open an issue in this repository or contact the repository maintainers.
