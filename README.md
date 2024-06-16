@@ -2,10 +2,6 @@
 
 Welcome to the Google Data & AI Boot-Kon repository. This repository contains user manuals links in DOC format for the FraudFix use case.
 
-## How to Use
-
-In order to copy the command lines and instructions easily, open the DOC file and follow the instructions. 
-
 ## Caution
 
 **CAUTION:**
