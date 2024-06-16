@@ -38,15 +38,15 @@ Always refer to the latest GCP documentation for the most up-to-date information
 To make the most out of the BootKon event, we suggest using one of these code editors for easy code editing and environment customization:
 
 - Mac & Windows:
-Visual Studio Code (VS Code)
-Sublime Text
-Atom
-Notepad++
+  - Visual Studio Code (VS Code)
+  - Sublime Text
+  - Atom
+  - Notepad++
 
 - Google Chromebooks:
-Visual Studio Code (VS Code)
-StackBlitz
-Gitpod
+  - Visual Studio Code (VS Code)
+  - StackBlitz
+  - Gitpod
 
 ## Feedback
 
