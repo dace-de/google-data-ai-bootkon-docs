@@ -13,7 +13,8 @@ Always refer to the latest GCP documentation for the most up-to-date information
 
 ## Contents
 
-- [[Main Github] Understand the use case](https://docs.google.com/document/d/14WnH6ZwEj5h0X8g4NcVYdsRK0qAYQfe9cIBI_VzJhD0/edit?usp=sharing)
+- [[Main Github] Boot-Kon Data & AI Event](https://docs.google.com/document/d/14WnH6ZwEj5h0X8g4NcVYdsRK0qAYQfe9cIBI_VzJhD0/edit?usp=sharing)
+- [Understand the FraudFix Use Case](https://docs.google.com/document/d/16Hgp79OWxKScrVdhY4UmSkHvR-3zZ7wDfQ8uPlzUeuE/edit#heading=h.7zgnj8bwqfld)
 - [[Hands-on Lab - 1] Setup your environment_ Notebooks & IAM](https://docs.google.com/document/d/14lqj4-Vx6iyjibGqK-UFhk5-AL0rED2O_nNxTKx532A/edit?usp=sharing)  
 - [[Hands-on Lab - 2] Data Ingestion with Dataproc , BigLake & PubSub](https://docs.google.com/document/d/14puI1u9FWHdcZII-zZS-XzpHm2Wzk1fyoy9BqJkT7Pk/edit?usp=sharing)   
 - [[Hands-on Lab - 3] ELT & Lakehouse _ BigQuery, Dataform, LLM for sentiment analysis](https://docs.google.com/document/d/15GTiDgzS54X_hUtz8FZqmLP9eLSF60dea4yLwDaT8R0/edit?usp=sharing)  
