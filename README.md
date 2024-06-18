@@ -53,4 +53,5 @@ If you have any feedback or issues, please open an issue in this repository or c
 
 Thank you for participating in the Google Data & AI Boot-Kon!
 
-Wissem Khlifi
+**Wissem Khlifi**
+Linkedin : https://www.linkedin.com/in/orawiss/ 
